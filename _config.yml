@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "https://64.media.tumblr.com/fe7980d3963e9c856a4b5d8ee5e22ed8/1108b555210d48e0-be/s540x810/065e338d26ab01bf6257a565d2c8b24f669962ab.jpg"
+avatar: "https://avatarfiles.alphacoders.com/325/thumb-1920-325828.jpg"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
