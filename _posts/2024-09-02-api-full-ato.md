@@ -29,7 +29,7 @@ So I downloaded the APK, launched Nox and BurpSuite and started hacking
 
 ## Browsing the APK
 
-I browsed through the APK for about ten minutes and it literally seemed broken. It used the api “[http://appli.redacted.com](http://appli.redacted.com)”
+I browsed through the APK for about ten minutes and it literally seemed broken. It used the api “http://appli.redacted.com"
 
 Using BurpSuite Mapping, I found a very interesting endpoint: /fr/v2.0/Clients/%2520/ 👀👀
 
